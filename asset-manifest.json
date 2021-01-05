@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/material-ui-app/static/css/main.a4918618.chunk.css",
-    "main.js": "/material-ui-app/static/js/main.4f07d769.chunk.js",
-    "main.js.map": "/material-ui-app/static/js/main.4f07d769.chunk.js.map",
+    "main.js": "/material-ui-app/static/js/main.d5418b75.chunk.js",
+    "main.js.map": "/material-ui-app/static/js/main.d5418b75.chunk.js.map",
     "runtime-main.js": "/material-ui-app/static/js/runtime-main.8447a4f8.js",
     "runtime-main.js.map": "/material-ui-app/static/js/runtime-main.8447a4f8.js.map",
     "static/js/2.fcf8f40b.chunk.js": "/material-ui-app/static/js/2.fcf8f40b.chunk.js",
@@ -32,7 +32,6 @@
     "static/media/AF7-Floral.a67ab3c6.png": "/material-ui-app/static/media/AF7-Floral.a67ab3c6.png",
     "static/media/AF8-Freshia.aa96d08e.png": "/material-ui-app/static/media/AF8-Freshia.aa96d08e.png",
     "static/media/AF9-Green Apple.00084e14.png": "/material-ui-app/static/media/AF9-Green Apple.00084e14.png",
-    "static/media/Savi-logo.4f2ee93d.png": "/material-ui-app/static/media/Savi-logo.4f2ee93d.png",
     "static/media/header.271e2b36.png": "/material-ui-app/static/media/header.271e2b36.png",
     "static/media/leaf.347e1f02.png": "/material-ui-app/static/media/leaf.347e1f02.png"
   },
@@ -40,6 +39,6 @@
     "static/js/runtime-main.8447a4f8.js",
     "static/js/2.fcf8f40b.chunk.js",
     "static/css/main.a4918618.chunk.css",
-    "static/js/main.4f07d769.chunk.js"
+    "static/js/main.d5418b75.chunk.js"
   ]
 }
