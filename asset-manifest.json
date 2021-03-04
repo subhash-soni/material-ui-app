@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/material-ui-app/static/css/main.4b210566.chunk.css",
+    "main.css": "/material-ui-app/static/css/main.a55c26aa.chunk.css",
     "main.js": "/material-ui-app/static/js/main.b95c1cab.chunk.js",
     "main.js.map": "/material-ui-app/static/js/main.b95c1cab.chunk.js.map",
     "runtime-main.js": "/material-ui-app/static/js/runtime-main.b689728d.js",
@@ -10,7 +10,7 @@
     "static/js/3.e1479122.chunk.js": "/material-ui-app/static/js/3.e1479122.chunk.js",
     "static/js/3.e1479122.chunk.js.map": "/material-ui-app/static/js/3.e1479122.chunk.js.map",
     "index.html": "/material-ui-app/index.html",
-    "static/css/main.4b210566.chunk.css.map": "/material-ui-app/static/css/main.4b210566.chunk.css.map",
+    "static/css/main.a55c26aa.chunk.css.map": "/material-ui-app/static/css/main.a55c26aa.chunk.css.map",
     "static/js/2.bb64851f.chunk.js.LICENSE.txt": "/material-ui-app/static/js/2.bb64851f.chunk.js.LICENSE.txt",
     "static/media/AF1-Apple Cinnamon.8bcfd2d4.png": "/material-ui-app/static/media/AF1-Apple Cinnamon.8bcfd2d4.png",
     "static/media/AF10-Jasmine.dc2d216e.png": "/material-ui-app/static/media/AF10-Jasmine.dc2d216e.png",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.b689728d.js",
     "static/js/2.bb64851f.chunk.js",
-    "static/css/main.4b210566.chunk.css",
+    "static/css/main.a55c26aa.chunk.css",
     "static/js/main.b95c1cab.chunk.js"
   ]
 }
